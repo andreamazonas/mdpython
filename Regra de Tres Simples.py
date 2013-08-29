@@ -5,16 +5,16 @@
  #*     / /  / / /_/ /    / /___/ /_/ / /  / /_/ / /_/ / /  / /_/ / /_/ / /_/ / / / /
  #*    /_/  /_/\__,_(_)   \____/\____/_/  / .___/\____/_/   \__,_/\__/_/\____/_/ /_/ 
  #*                                      /_/                                         
+ #* Exemplo:
+ #*   x = n2
+ #*  n1 = n3
  #*
 
 print ("Boa Noite, Md.")
-n1 = input( "Vamos precisar do Primeiro Numero")
-n2 = input( "Vamos precisar do Segundo Numero")
-n3 = input( "Vamos precisar do Terceiro Numero")
-n4 = x 
-n1*n3 = x0
-n2*n4 = x1
-x0/x1 = x3
+n1 = input( "Vamos precisar do Primeiro Numero :")
+n2 = input( "Vamos precisar do Segundo Numero : ")
+n3 = input( "Vamos precisar do Terceiro Numero : ")
+str.x = (n3*n2/n1)
 print ('Obrigado, Vamos calcular agora')
 print ('Calculando . . . Nao, nao da tempo de tomar um cafe!')
-print ('Essa eh facil o Valor de X eh'),x3
+print ('Essa eh facil o Valor de X eh : >>'),str.x
